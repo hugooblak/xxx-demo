@@ -18,7 +18,6 @@ return array(
 		array( 'Vi vände oss till WB Bygg för upphandling av ny Kamin. Vi är Mycket nöjda med allt från kommunikation till installation av. Jonathan och Mikael är båda grymma att ha att göra med och allt har gått väldigt smidigt samt snabbt!', 'Daniel Pettersson', 'för 2 år sedan' ),
 		array( 'Billigast av 3 offerter för installation av kamin - kom när de sa de skulle komma, glada och trevliga, gav tips och idéer kring placering, städade och tog med allt skräp. Jättenöjda!', 'R. E. Thyrfalk', 'för ett år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg' ),
+	'bild_hero'      => 'foto-3.jpg',
 	'ar_riktig'      => true,
 );
