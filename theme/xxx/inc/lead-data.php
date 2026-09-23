@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => '.',
+	'bransch'        => 'Byggföretag',
 	'telefon'        => '0322-22 22 50',
 	'telefon_tel'    => '+46322222250',
 	'ort'            => 'Alingsås',
